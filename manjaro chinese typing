@@ -1,0 +1,9 @@
+sudo nano .xprofile
+export XOMDIFIERS="SCIM"
+export GTK_IM_MODUKE="SCIM"
+scim -0
+
+
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
